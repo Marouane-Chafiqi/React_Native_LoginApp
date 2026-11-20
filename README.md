@@ -7,7 +7,7 @@ Elle contient un écran d'accueil avec un champ « First Name » et un écran de
 
 | Écran 1 | Écran 2 |
 | :-----: | :-----: |
-| ![Écran 1](screenshots/1.JPEG) | ![Écran 2](screenshots/2.JPEG) |
+| ![Écran 1](screenshots/1.jpeg) | ![Écran 2](screenshots/2.jpeg) |
 
 ## Fonctionnalités
 
